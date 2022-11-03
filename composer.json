@@ -1,0 +1,18 @@
+{
+    "name": "acer/projek_rpl",
+    "description": "Projek Profile Web RPL SMKN 1 Bantul",
+    "autoload": {
+        "psr-4": {
+            "Acer\\ProjekRpl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daaaam",
+            "email": "adamaditama13@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}

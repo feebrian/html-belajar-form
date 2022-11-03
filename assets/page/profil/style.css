@@ -1,0 +1,9 @@
+.prestasi main .row div {
+  background-color: black;
+  width: 50%;
+}
+
+#prestasi .row  p {
+  word-wrap: break-word;
+}
+
